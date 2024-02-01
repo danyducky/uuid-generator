@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UUIDGenerator", "UUIDGenerator\UUIDGenerator.csproj", "{B5DC6AC5-149D-4EA8-B2FC-5AF1DC9EEBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UUIDGenerator.Tests", "UUIDGenerator.Tests\UUIDGenerator.Tests.csproj", "{2D03269E-B1C3-4D01-AE4D-B4F2880CB901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UUIDGenerator.App", "UUIDGenerator.App\UUIDGenerator.App.csproj", "{4186EFDA-C068-4BEE-9145-81EA4A7BD848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DC6AC5-149D-4EA8-B2FC-5AF1DC9EEBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DC6AC5-149D-4EA8-B2FC-5AF1DC9EEBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DC6AC5-149D-4EA8-B2FC-5AF1DC9EEBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DC6AC5-149D-4EA8-B2FC-5AF1DC9EEBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D03269E-B1C3-4D01-AE4D-B4F2880CB901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D03269E-B1C3-4D01-AE4D-B4F2880CB901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D03269E-B1C3-4D01-AE4D-B4F2880CB901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D03269E-B1C3-4D01-AE4D-B4F2880CB901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4186EFDA-C068-4BEE-9145-81EA4A7BD848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4186EFDA-C068-4BEE-9145-81EA4A7BD848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4186EFDA-C068-4BEE-9145-81EA4A7BD848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4186EFDA-C068-4BEE-9145-81EA4A7BD848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
